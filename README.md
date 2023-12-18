@@ -2,8 +2,6 @@
  
 # ReLeaSE: Reinforcement Learning for Molecule Generation
 
-![ReLeaSE Logo](path/to/release-logo.png) <!-- Replace with an appropriate logo or banner -->
-
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 This repository contains the code for the ReLeaSE (Reinforcement Learning for Structural Evolution) project, which focuses on leveraging Reinforcement Learning (RL) techniques to generate novel molecular structures.
