@@ -10,6 +10,9 @@ This repository contains the code for the ReLeaSE (Reinforcement Learning for St
 
 The ReLeaSE framework incorporates a Stack Augmented Recurrent Neural Network (StackAugmentedRNN) for molecule generation, along with a Random Forest Regressor used as a predictor for molecule properties. The RL agent is trained to generate molecules with desired properties through a defined reward function and policy gradient methods.
 
+![System Overview_Phase-I](https://github.com/Manikanta-7342/PharmAIcist-Phase-I/assets/92366177/9ed808f2-3e74-4190-8301-2e6d01d02a24)
+
+
 ## Getting Started
 
 ### Prerequisites
